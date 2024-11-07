@@ -2,8 +2,8 @@
 Changelog for package pcl_conversions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.6.2 (2024-11-07)
+------------------
 * sorts pc msg fields by offset (`#438 <https://github.com/ros-perception/perception_pcl/issues/438>`_)
 * Fix `Could NOT find Boost (missing: Boost_INCLUDE_DIR)` `#452 <https://github.com/ros-perception/perception_pcl/issues/452>`_ (`#454 <https://github.com/ros-perception/perception_pcl/issues/454>`_)
 * In PCL 1.14.1 and newer, generate smaller point cloud msgs (`#450 <https://github.com/ros-perception/perception_pcl/issues/450>`_)

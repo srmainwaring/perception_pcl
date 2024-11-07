@@ -2,8 +2,8 @@
 Changelog for package pcl_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.6.2 (2024-11-07)
+------------------
 * Fix handling of empty input point cloud in computePublish method (`#467 <https://github.com/ros-perception/perception_pcl/issues/467>`_)
 * point_cloud.hpp ros2 types fixed (`#425 <https://github.com/ros-perception/perception_pcl/issues/425>`_)
 * Fix `Could NOT find Boost (missing: Boost_INCLUDE_DIR)` (`#452 <https://github.com/ros-perception/perception_pcl/issues/452>`_)
